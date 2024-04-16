@@ -1,14 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\dbms1\\",
+  "WorkspaceRootPath": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|c:\\users\\maria\\source\\repos\\dbms1\\dbms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|c:\\users\\marian\\documents\\code\\dbms2\\dbms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|solutionrelative:dbms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|c:\\users\\maria\\source\\repos\\dbms1\\dbms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|solutionrelative:dbms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|solutionrelative:dbms1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|dbms1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|solutionrelative:dbms1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|solutionrelative:dbms1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A16F204-AA26-43A0-B87A-12635B215ED7}|dbms1\\dbms1.csproj|solutionrelative:dbms1\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +37,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\dbms1\\dbms1\\Form1.cs",
-              "RelativeDocumentMoniker": "dbms1\\Form1.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\dbms1\\dbms1\\Form1.cs [Design]",
-              "RelativeToolTip": "dbms1\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "dbms1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Form1.Designer.cs",
+              "RelativeToolTip": "dbms1\\Form1.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T14:35:35.103Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-11T15:09:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbms1",
+              "DocumentMoniker": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\dbms1.csproj",
+              "RelativeDocumentMoniker": "dbms1\\dbms1.csproj",
+              "ToolTip": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\dbms1.csproj",
+              "RelativeToolTip": "dbms1\\dbms1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-11T14:43:48.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\App.config",
+              "RelativeDocumentMoniker": "dbms1\\App.config",
+              "ToolTip": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\App.config",
+              "RelativeToolTip": "dbms1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-24T18:25:38.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "dbms1\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "dbms1\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T18:25:30.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "dbms1\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "dbms1\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBsAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T18:24:00.401Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\dbms1\\dbms1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Form1.cs",
               "RelativeDocumentMoniker": "dbms1\\Form1.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\dbms1\\dbms1\\Form1.cs",
+              "ToolTip": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Form1.cs",
               "RelativeToolTip": "dbms1\\Form1.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAArwCwAAAAhAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAqwFsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T14:26:05.481Z",
+              "WhenOpened": "2024-03-24T18:21:38.857Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Form1.cs",
+              "RelativeDocumentMoniker": "dbms1\\Form1.cs",
+              "ToolTip": "C:\\Users\\marian\\Documents\\Code\\DBMS2\\dbms1\\Form1.cs [Design]",
+              "RelativeToolTip": "dbms1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:35:35.103Z"
             }
           ]
         }

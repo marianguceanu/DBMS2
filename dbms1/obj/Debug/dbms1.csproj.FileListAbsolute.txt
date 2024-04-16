@@ -8,3 +8,13 @@ C:\Users\maria\source\repos\dbms1\dbms1\obj\Debug\dbms1.csproj.GenerateResource.
 C:\Users\maria\source\repos\dbms1\dbms1\obj\Debug\dbms1.csproj.CoreCompileInputs.cache
 C:\Users\maria\source\repos\dbms1\dbms1\obj\Debug\dbms1.exe
 C:\Users\maria\source\repos\dbms1\dbms1\obj\Debug\dbms1.pdb
+C:\Users\marian\Documents\Code\DBMS2\dbms1\bin\Debug\dbms1.exe.config
+C:\Users\marian\Documents\Code\DBMS2\dbms1\bin\Debug\dbms1.exe
+C:\Users\marian\Documents\Code\DBMS2\dbms1\bin\Debug\dbms1.pdb
+C:\Users\marian\Documents\Code\DBMS2\dbms1\obj\Debug\dbms1.csproj.AssemblyReference.cache
+C:\Users\marian\Documents\Code\DBMS2\dbms1\obj\Debug\dbms1.Form1.resources
+C:\Users\marian\Documents\Code\DBMS2\dbms1\obj\Debug\dbms1.Properties.Resources.resources
+C:\Users\marian\Documents\Code\DBMS2\dbms1\obj\Debug\dbms1.csproj.GenerateResource.cache
+C:\Users\marian\Documents\Code\DBMS2\dbms1\obj\Debug\dbms1.csproj.CoreCompileInputs.cache
+C:\Users\marian\Documents\Code\DBMS2\dbms1\obj\Debug\dbms1.exe
+C:\Users\marian\Documents\Code\DBMS2\dbms1\obj\Debug\dbms1.pdb

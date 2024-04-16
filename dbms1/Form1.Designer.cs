@@ -41,6 +41,9 @@
             this.fightingGymDBDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.classTableAdapter = new dbms1.FightingGymDBDataSetTableAdapters.ClassTableAdapter();
             this.materialsGrid = new System.Windows.Forms.DataGridView();
+            this.addButton = new System.Windows.Forms.Button();
+            this.updateButton = new System.Windows.Forms.Button();
+            this.deleteButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.classGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.classBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fightingGymDBDataSet)).BeginInit();
@@ -59,9 +62,9 @@
             this.tidDataGridViewTextBoxColumn,
             this.classnameDataGridViewTextBoxColumn});
             this.classGridView.DataSource = this.classBindingSource;
-            this.classGridView.Location = new System.Drawing.Point(12, 28);
+            this.classGridView.Location = new System.Drawing.Point(21, 28);
             this.classGridView.Name = "classGridView";
-            this.classGridView.Size = new System.Drawing.Size(240, 150);
+            this.classGridView.Size = new System.Drawing.Size(374, 312);
             this.classGridView.TabIndex = 0;
             this.classGridView.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.classGridView_CellClick);
             // 
@@ -130,16 +133,49 @@
             // materialsGrid
             // 
             this.materialsGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.materialsGrid.Location = new System.Drawing.Point(356, 27);
+            this.materialsGrid.Location = new System.Drawing.Point(401, 28);
             this.materialsGrid.Name = "materialsGrid";
-            this.materialsGrid.Size = new System.Drawing.Size(240, 150);
+            this.materialsGrid.Size = new System.Drawing.Size(376, 312);
             this.materialsGrid.TabIndex = 2;
+            // 
+            // addButton
+            // 
+            this.addButton.Location = new System.Drawing.Point(21, 389);
+            this.addButton.Name = "addButton";
+            this.addButton.Size = new System.Drawing.Size(108, 31);
+            this.addButton.TabIndex = 3;
+            this.addButton.Text = "Add";
+            this.addButton.UseVisualStyleBackColor = true;
+            this.addButton.Click += new System.EventHandler(this.addButton_Click);
+            // 
+            // updateButton
+            // 
+            this.updateButton.Location = new System.Drawing.Point(135, 389);
+            this.updateButton.Name = "updateButton";
+            this.updateButton.Size = new System.Drawing.Size(101, 31);
+            this.updateButton.TabIndex = 4;
+            this.updateButton.Text = "Update";
+            this.updateButton.UseVisualStyleBackColor = true;
+            this.updateButton.Click += new System.EventHandler(this.updateButton_Click);
+            // 
+            // deleteButton
+            // 
+            this.deleteButton.Location = new System.Drawing.Point(242, 389);
+            this.deleteButton.Name = "deleteButton";
+            this.deleteButton.Size = new System.Drawing.Size(94, 31);
+            this.deleteButton.TabIndex = 5;
+            this.deleteButton.Text = "Delete";
+            this.deleteButton.UseVisualStyleBackColor = true;
+            this.deleteButton.Click += new System.EventHandler(this.deleteButton_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.deleteButton);
+            this.Controls.Add(this.updateButton);
+            this.Controls.Add(this.addButton);
             this.Controls.Add(this.materialsGrid);
             this.Controls.Add(this.fillByToolStrip);
             this.Controls.Add(this.classGridView);
@@ -172,6 +208,9 @@
         private System.Windows.Forms.ToolStrip fillByToolStrip;
         private System.Windows.Forms.ToolStripButton fillByToolStripButton;
         private System.Windows.Forms.DataGridView materialsGrid;
+        private System.Windows.Forms.Button addButton;
+        private System.Windows.Forms.Button updateButton;
+        private System.Windows.Forms.Button deleteButton;
     }
 }
 
